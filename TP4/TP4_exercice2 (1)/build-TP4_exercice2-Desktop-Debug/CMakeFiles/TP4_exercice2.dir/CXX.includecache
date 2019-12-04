@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/bibliotheque.cc
+bibliotheque.hh
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/bibliotheque.hh
+video.hh
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/video.hh
+
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/bibliotheque.hh
+vector
+-
+document.hh
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/document.hh
+video.hh
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/video.hh
+
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/document.cc
+document.hh
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/document.hh
+
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/document.hh
+iostream
+-
+string
+-
+
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/documentecrit.cc
+documentecrit.hh
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/documentecrit.hh
+
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/documentecrit.hh
+document.hh
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/document.hh
+
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/livre.cc
+livre.hh
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/livre.hh
+
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/livre.hh
+documentecrit.hh
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/documentecrit.hh
+
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/main.cpp
+iostream
+-
+document.hh
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/document.hh
+periodique.hh
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/periodique.hh
+
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/periodique.cc
+periodique.hh
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/periodique.hh
+
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/periodique.hh
+documentecrit.hh
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/documentecrit.hh
+
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/video.cc
+video.hh
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/video.hh
+
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/video.hh
+document.hh
+/home/guillaume/TP4_exercice2 (1)/TP4_exercice2/document.hh
+

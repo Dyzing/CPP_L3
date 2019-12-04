@@ -1,0 +1,1 @@
+/usr/bin/clang++  -g  -rdynamic CMakeFiles/TP4_exercice2.dir/main.cpp.o CMakeFiles/TP4_exercice2.dir/document.cc.o CMakeFiles/TP4_exercice2.dir/documentecrit.cc.o CMakeFiles/TP4_exercice2.dir/video.cc.o CMakeFiles/TP4_exercice2.dir/livre.cc.o CMakeFiles/TP4_exercice2.dir/periodique.cc.o CMakeFiles/TP4_exercice2.dir/bibliotheque.cc.o  -o TP4_exercice2 
